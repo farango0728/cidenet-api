@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://bitbucket.org/elitgon/mela-api.git"
+    "url": "git+https://github.com/farango0728/cidenet-api.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://bitbucket.org/elitgon/mela-api/issues"
+    "url": "https://github.com/farango0728/cidenet-api/issues"
   },
-  "homepage": "https://bitbucket.org/elitgon/mela-api#readme",
+  "homepage": "https://github.com/farango0728/cidenet-api/blob/main/README.md",
   "devDependencies": {
     "@types/bcryptjs": "^2.4.2",
     "@types/cors": "^2.8.12",
