@@ -17,6 +17,6 @@ npm install
 
 _Menciona las herramientas que utilizaste para crear tu proyecto_
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
+* [Nodejs](https://nodejs.org/es/) - El framework web usado
+* [PostgresSQL](https://www.postgresql.org/) - Base de datos
+* [TypeScript](https://www.typescriptlang.org/) - TypeScript es un lenguaje de programación fuertemente tipado que se basa en JavaScript, lo que le brinda mejores herramientas a cualquier escala.
