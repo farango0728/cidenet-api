@@ -17,6 +17,8 @@ npm install
 
 _Menciona las herramientas que utilizaste para crear tu proyecto_
 
-* [Nodejs](https://nodejs.org/es/) - El framework web usado
+* [Nodejs](https://nodejs.org/es/) - Node.js® es un entorno de ejecución para JavaScript construido con V8, motor de JavaScript de Chrome.
+* [express](https://expressjs.com/es/) - Infraestructura web rápida, minimalista y flexible para Node.js
 * [PostgresSQL](https://www.postgresql.org/) - Base de datos
 * [TypeScript](https://www.typescriptlang.org/) - TypeScript es un lenguaje de programación fuertemente tipado que se basa en JavaScript, lo que le brinda mejores herramientas a cualquier escala.
+* [TypeOrm] (https://typeorm.io/) - TypeORM es un ORM que puede ejecutarse en las plataformas NodeJS
