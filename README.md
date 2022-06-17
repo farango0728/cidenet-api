@@ -12,10 +12,15 @@ Api Nodejs, postgres, typeorm, typescript
 npm install
 ```
 
+## Ejecutando la aplicacion ⚙️
+
+```
+npm run dev
+```
 
 ## Construido con 🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
+_las herramientas que se utilizaron en el proyecto_
 
 * [Nodejs](https://nodejs.org/es/) - Node.js® es un entorno de ejecución para JavaScript construido con V8, motor de JavaScript de Chrome.
 * [express](https://expressjs.com/es/) - Infraestructura web rápida, minimalista y flexible para Node.js
