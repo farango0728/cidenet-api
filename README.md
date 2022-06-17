@@ -5,3 +5,9 @@ Requiere de un sistema que le permita registrar el ingreso y la salida de sus em
 ## Comenzando 🚀
 
 Api Nodejs, postgres, typeorm, typescript
+
+### Instalación 🔧
+
+```
+Da un ejemplo
+```
