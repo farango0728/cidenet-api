@@ -7,6 +7,21 @@ Requiere de un sistema que le permita registrar el ingreso y la salida de sus em
 ```
 git checkout master
 ```
+### Configuracion 🔧
+Crear archivo .env
+
+
+```
+DB_HOST=
+NODE_PORT=
+DB_TYPE=
+DB_PORT=
+DB_NAME=
+DB_USER=
+DB_PWD=
+```
+
+
 
 ## Comenzando 🚀
 
